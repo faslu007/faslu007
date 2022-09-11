@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @faslu007
+- 👀 I’m interested in reading, coding and trying out new things...
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me @telegram: https://t.me/fasluk007
